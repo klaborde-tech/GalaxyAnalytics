@@ -1,0 +1,11 @@
+data/raw/gz2_hart16/gz2_hart16.csv
+# Raw datasets
+data/raw/
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
